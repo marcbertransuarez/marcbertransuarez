@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marc</h1>
 <h3 align="center">A FullStack Developer from Barcelona</h3>
 
-- 🔭 I’m currently working as a Services Manager and Jr Frontend Developer in **La Cupula Music Media SL.**
+- 🔭 I’m currently working as a Services Manager and Frontend Developer in **La Cupula Music Media SL.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
